@@ -1,0 +1,1 @@
+$execute as @e[tag=value] at @s run data merge entity @s {text:{"text":"value: $(value)", color:"aqua"}, billboard:"center"}

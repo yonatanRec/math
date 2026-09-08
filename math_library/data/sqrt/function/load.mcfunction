@@ -1,0 +1,1 @@
+scoreboard players set #sqrt_max_loop count 15

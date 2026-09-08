@@ -1,0 +1,1 @@
+summon text_display 0 -58 0 {Tags:["value"],text:{"text":"hi"},billboard:"center"}

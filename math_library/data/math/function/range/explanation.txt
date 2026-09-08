@@ -1,0 +1,6 @@
+
+
+_ is a replacement for either < or >, for a and x only, it is just <
+and if there is both a and b, it is interchangeable.
+
+- is a replacement for =, so _- is the same as >= or <=

@@ -1,0 +1,7 @@
+{
+    "values": [
+        "main:load",
+        "sqrt:load",
+        "pow:load"
+    ]
+}

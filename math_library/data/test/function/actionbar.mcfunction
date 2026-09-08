@@ -1,0 +1,1 @@
+$title @a actionbar {"text":"$(tellraw)","color":"aqua","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}

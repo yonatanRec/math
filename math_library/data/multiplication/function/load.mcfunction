@@ -1,0 +1,1 @@
+data modify storage mathlib:multiplication base set value 1.0

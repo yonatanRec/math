@@ -1,0 +1,9 @@
+# a director function for subtraction
+
+### Input
+# a: first number
+# b: second number
+
+### Output
+# out: storage location for result
+$return run function subtraction:calc {a:$(a), b:$(b), out:"$(out)"}
